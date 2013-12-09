@@ -1,0 +1,4 @@
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\School\obj\Debug\School.exe
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\School\obj\Debug\School.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\5.Object-Oriented-Programming-Principles-Part-I\School\obj\Debug\School.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\5.Object-Oriented-Programming-Principles-Part-I\School\obj\Debug\School.pdb

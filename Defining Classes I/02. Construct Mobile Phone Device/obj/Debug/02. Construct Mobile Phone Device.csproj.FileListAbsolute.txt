@@ -1,0 +1,6 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\02. Construct Mobile Phone Device\obj\Debug\02. Construct Mobile Phone Device.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\02. Construct Mobile Phone Device\bin\Debug\_02.Construct_Mobile_Phone_Device.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\02. Construct Mobile Phone Device\bin\Debug\_02.Construct_Mobile_Phone_Device.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\02. Construct Mobile Phone Device\bin\Debug\_02.Construct_Mobile_Phone_Device.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\02. Construct Mobile Phone Device\obj\Debug\_02.Construct_Mobile_Phone_Device.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\02. Construct Mobile Phone Device\obj\Debug\_02.Construct_Mobile_Phone_Device.pdb

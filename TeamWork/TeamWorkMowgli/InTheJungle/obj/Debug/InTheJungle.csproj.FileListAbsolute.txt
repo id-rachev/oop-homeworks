@@ -1,0 +1,13 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\Demos\Object-Oriented-Programming-Principles-Part-I-Demos\Homeworks\TeamWorkMowgli\InTheJungle\bin\Debug\InTheJungle.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\TeamWork\TeamWorkMowgli\InTheJungle\bin\Debug\InTheJungle.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\TeamWork\TeamWorkMowgli\InTheJungle\bin\Debug\InTheJungle.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\TeamWork\TeamWorkMowgli\InTheJungle\bin\Debug\InTheJungle.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\TeamWork\TeamWorkMowgli\InTheJungle\obj\Debug\InTheJungle.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\TeamWork\TeamWorkMowgli\InTheJungle\obj\Debug\InTheJungle.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\TeamWork\TeamWorkMowgli\InTheJungle\obj\Debug\InTheJungle.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\TeamWorkMowgli\InTheJungle\bin\Debug\InTheJungle.exe.config
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\TeamWorkMowgli\InTheJungle\obj\Debug\InTheJungle.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\TeamWorkMowgli\InTheJungle\obj\Debug\InTheJungle.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\TeamWorkMowgli\InTheJungle\bin\Debug\InTheJungle.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\TeamWorkMowgli\InTheJungle\bin\Debug\InTheJungle.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\TeamWorkMowgli\InTheJungle\obj\Debug\InTheJungle.csprojResolveAssemblyReference.cache

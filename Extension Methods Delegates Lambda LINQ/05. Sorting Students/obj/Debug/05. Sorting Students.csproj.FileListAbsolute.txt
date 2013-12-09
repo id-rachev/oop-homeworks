@@ -1,0 +1,8 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\05. Sorting Students\bin\Debug\_05.Sorting_Students.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\05. Sorting Students\bin\Debug\_05.Sorting_Students.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\05. Sorting Students\bin\Debug\_05.Sorting_Students.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\05. Sorting Students\bin\Debug\_03.Find_Students.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\05. Sorting Students\bin\Debug\_03.Find_Students.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\05. Sorting Students\obj\Debug\05. Sorting Students.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\05. Sorting Students\obj\Debug\_05.Sorting_Students.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\05. Sorting Students\obj\Debug\_05.Sorting_Students.pdb

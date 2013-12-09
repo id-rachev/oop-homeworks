@@ -1,0 +1,6 @@
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\bin\Debug\Exercise 2.exe.config
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\obj\Debug\Exercise 2.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\obj\Debug\Exercise 2.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\bin\Debug\Exercise 2.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\bin\Debug\Exercise 2.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\obj\Debug\HumanWorker.csprojResolveAssemblyReference.cache

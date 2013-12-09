@@ -1,0 +1,12 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\05. GenericList\bin\Debug\_05.GenericList.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\05. GenericList\obj\Debug\05. GenericList.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\05. GenericList\bin\Debug\_05.GenericList.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\05. GenericList\bin\Debug\_05.GenericList.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\05. GenericList\obj\Debug\_05.GenericList.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\05. GenericList\obj\Debug\_05.GenericList.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\05. GenericList\bin\Debug\_05.GenericList.exe.config
+D:\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\05. GenericList\obj\Debug\_05.GenericList.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\05. GenericList\obj\Debug\_05.GenericList.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\05. GenericList\bin\Debug\_05.GenericList.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\05. GenericList\bin\Debug\_05.GenericList.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\05. GenericList\obj\Debug\05. GenericList.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\PythonKaa\PythonKaa\bin\Debug\TeamGame.exe.config
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\PythonKaa\PythonKaa\bin\Debug\TeamGame.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\PythonKaa\PythonKaa\bin\Debug\TeamGame.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\PythonKaa\PythonKaa\obj\Debug\PythonKaa.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\PythonKaa\PythonKaa\obj\Debug\TeamGame.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\PythonKaa\PythonKaa\obj\Debug\TeamGame.pdb

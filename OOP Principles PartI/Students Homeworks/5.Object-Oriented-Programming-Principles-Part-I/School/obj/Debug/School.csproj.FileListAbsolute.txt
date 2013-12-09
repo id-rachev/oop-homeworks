@@ -1,0 +1,5 @@
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\School\bin\Debug\School.exe
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\School\bin\Debug\School.pdb
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\School\obj\Debug\School.exe
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\School\obj\Debug\School.pdb

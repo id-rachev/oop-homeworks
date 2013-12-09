@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Snake.GameController">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>GameController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.GameDataLogic">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACABAQCCAAIAAAQIAAAAAAAAACAIEQAAAAAQ=</HashCode>
+      <FileName>GameDataLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.GameInfoDTO">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAgAAAAIAACAQAAAAAAAAAACAAAAAAABIA=</HashCode>
+      <FileName>GameInfoDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.GameView">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Snake.GameView.KEY" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameView.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAQALAAAAAEAEAAAAEAAAEAAQAAIAI=</HashCode>
+      <FileName>GameView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.Snake">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAggAAAAJAACAAAACAAQAAAAAAAAECIQAAAgAAAA=</HashCode>
+      <FileName>Snake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.SnakeGame">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>SnakeGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Snake.Coord">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAAA=</HashCode>
+      <FileName>Coord.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,9 @@
+D:\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\GeometricShapes\bin\Debug\GeometricShapes.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\GeometricShapes\obj\Debug\GeometricShapes.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\GeometricShapes\bin\Debug\GeometricShapes.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\GeometricShapes\bin\Debug\GeometricShapes.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\GeometricShapes\obj\Debug\GeometricShapes.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\GeometricShapes\obj\Debug\GeometricShapes.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\GeometricShapes\obj\Debug\GeometricShapes.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\GeometricShapes\obj\Debug\GeometricShapes.pdb

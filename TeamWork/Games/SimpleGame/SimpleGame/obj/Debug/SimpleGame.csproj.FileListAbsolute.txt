@@ -1,0 +1,18 @@
+c:\users\lenovo r400\documents\visual studio 2012\Projects\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe.config
+c:\users\lenovo r400\documents\visual studio 2012\Projects\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo R400\Documents\Visual Studio 2012\Projects\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe
+C:\Users\Lenovo R400\Documents\Visual Studio 2012\Projects\SimpleGame\SimpleGame\bin\Debug\SimpleGame.pdb
+C:\Users\Lenovo R400\Documents\Visual Studio 2012\Projects\SimpleGame\SimpleGame\obj\Debug\SimpleGame.exe
+C:\Users\Lenovo R400\Documents\Visual Studio 2012\Projects\SimpleGame\SimpleGame\obj\Debug\SimpleGame.pdb
+C:\Users\Lenovo R400\Documents\Visual Studio 2012\Projects\Games\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe.config
+C:\Users\Lenovo R400\Documents\Visual Studio 2012\Projects\Games\SimpleGame\SimpleGame\obj\Debug\SimpleGame.exe
+C:\Users\Lenovo R400\Documents\Visual Studio 2012\Projects\Games\SimpleGame\SimpleGame\obj\Debug\SimpleGame.pdb
+C:\Users\Lenovo R400\Documents\Visual Studio 2012\Projects\Games\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe
+C:\Users\Lenovo R400\Documents\Visual Studio 2012\Projects\Games\SimpleGame\SimpleGame\bin\Debug\SimpleGame.pdb
+C:\Users\Lenovo R400\Documents\Visual Studio 2012\Projects\Games\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\TeamWork\Games\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\TeamWork\Games\SimpleGame\SimpleGame\obj\Debug\SimpleGame.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\TeamWork\Games\SimpleGame\SimpleGame\obj\Debug\SimpleGame.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\TeamWork\Games\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\TeamWork\Games\SimpleGame\SimpleGame\bin\Debug\SimpleGame.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\TeamWork\Games\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csprojResolveAssemblyReference.cache

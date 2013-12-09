@@ -1,0 +1,10 @@
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\2.Humans\bin\Debug\2.Humans.exe
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\2.Humans\bin\Debug\2.Humans.pdb
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\2.Humans\obj\Debug\2.Humans.csprojResolveAssemblyReference.cache
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\2.Humans\obj\Debug\2.Humans.exe
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\2.Humans\obj\Debug\2.Humans.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\5.Object-Oriented-Programming-Principles-Part-I\2.Humans\obj\Debug\2.Humans.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\5.Object-Oriented-Programming-Principles-Part-I\2.Humans\obj\Debug\2.Humans.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\5.Object-Oriented-Programming-Principles-Part-I\2.Humans\bin\Debug\2.Humans.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\5.Object-Oriented-Programming-Principles-Part-I\2.Humans\bin\Debug\2.Humans.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\5.Object-Oriented-Programming-Principles-Part-I\2.Humans\obj\Debug\2.Humans.csprojResolveAssemblyReference.cache

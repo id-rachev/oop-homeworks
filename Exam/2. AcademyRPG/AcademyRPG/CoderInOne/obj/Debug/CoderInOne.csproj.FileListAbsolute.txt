@@ -1,0 +1,6 @@
+D:\Projects\Telerik Academy\OOP\OOP projects\Exam\2. AcademyRPG\AcademyRPG\CoderInOne\bin\Debug\CoderInOne.exe.config
+D:\Projects\Telerik Academy\OOP\OOP projects\Exam\2. AcademyRPG\AcademyRPG\CoderInOne\bin\Debug\CoderInOne.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\Exam\2. AcademyRPG\AcademyRPG\CoderInOne\bin\Debug\CoderInOne.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\Exam\2. AcademyRPG\AcademyRPG\CoderInOne\obj\Debug\CoderInOne.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\OOP\OOP projects\Exam\2. AcademyRPG\AcademyRPG\CoderInOne\obj\Debug\CoderInOne.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\Exam\2. AcademyRPG\AcademyRPG\CoderInOne\obj\Debug\CoderInOne.pdb

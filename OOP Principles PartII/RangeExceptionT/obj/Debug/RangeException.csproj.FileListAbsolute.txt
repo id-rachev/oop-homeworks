@@ -1,0 +1,1 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\RangeException\bin\Debug\RangeException.exe.config

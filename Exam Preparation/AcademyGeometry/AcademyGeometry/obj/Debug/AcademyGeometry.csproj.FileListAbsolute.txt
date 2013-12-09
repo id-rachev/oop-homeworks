@@ -1,0 +1,6 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Exam Preparation\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Exam Preparation\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Exam Preparation\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Exam Preparation\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Exam Preparation\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Exam Preparation\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.pdb

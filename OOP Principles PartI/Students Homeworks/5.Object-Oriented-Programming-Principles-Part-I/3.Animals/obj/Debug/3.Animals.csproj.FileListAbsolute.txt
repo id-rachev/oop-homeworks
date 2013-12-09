@@ -1,0 +1,7 @@
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\3.Animals\obj\Debug\3.Animals.csprojResolveAssemblyReference.cache
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\3.Animals\bin\Debug\3.Animals.exe
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\3.Animals\bin\Debug\3.Animals.pdb
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\3.Animals\obj\Debug\3.Animals.exe
+C:\Telerik\OOP\Homework\5.Object-Oriented-Programming-Principles-Part-I\3.Animals\obj\Debug\3.Animals.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\5.Object-Oriented-Programming-Principles-Part-I\3.Animals\obj\Debug\3.Animals.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\5.Object-Oriented-Programming-Principles-Part-I\3.Animals\obj\Debug\3.Animals.pdb

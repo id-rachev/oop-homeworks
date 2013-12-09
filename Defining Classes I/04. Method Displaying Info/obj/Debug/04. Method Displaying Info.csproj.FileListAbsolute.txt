@@ -1,0 +1,6 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\04. Method Displaying Info\bin\Debug\_04.Method_Displaying_Info.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\04. Method Displaying Info\bin\Debug\_04.Method_Displaying_Info.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\04. Method Displaying Info\bin\Debug\_04.Method_Displaying_Info.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\04. Method Displaying Info\obj\Debug\_04.Method_Displaying_Info.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\04. Method Displaying Info\obj\Debug\_04.Method_Displaying_Info.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\04. Method Displaying Info\obj\Debug\04. Method Displaying Info.csprojResolveAssemblyReference.cache

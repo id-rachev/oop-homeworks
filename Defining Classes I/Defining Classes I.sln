@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Define Mobile Phone Device", "01. Mobile Phone Device\01. Define Mobile Phone Device.csproj", "{7AEE2FD4-F0B5-427F-B334-22CC707E58C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Construct Mobile Phone Device", "02. Construct Mobile Phone Device\02. Construct Mobile Phone Device.csproj", "{BC5ACA06-F2C8-4934-B658-E3146242CCCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Enum Battery Type", "03. Enum Battery Type\03. Enum Battery Type.csproj", "{05EA4267-4A8D-4067-AF61-8A19025DF6A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Method Displaying Info", "04. Method Displaying Info\04. Method Displaying Info.csproj", "{096D6906-03E9-4F69-AE6A-50CB55C7BB4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Encapsulate And Validation", "05. Encapsulate And Validation\05. Encapsulate And Validation.csproj", "{E1DC67AE-F795-4AB8-9548-436F254D2520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Static Field IPhone4S", "06. Static Field IPhone4S\06. Static Field IPhone4S.csproj", "{72B6807A-B093-4FA7-9CE5-EADBA81D7705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AEE2FD4-F0B5-427F-B334-22CC707E58C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEE2FD4-F0B5-427F-B334-22CC707E58C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEE2FD4-F0B5-427F-B334-22CC707E58C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEE2FD4-F0B5-427F-B334-22CC707E58C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5ACA06-F2C8-4934-B658-E3146242CCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5ACA06-F2C8-4934-B658-E3146242CCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5ACA06-F2C8-4934-B658-E3146242CCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5ACA06-F2C8-4934-B658-E3146242CCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05EA4267-4A8D-4067-AF61-8A19025DF6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05EA4267-4A8D-4067-AF61-8A19025DF6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05EA4267-4A8D-4067-AF61-8A19025DF6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05EA4267-4A8D-4067-AF61-8A19025DF6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{096D6906-03E9-4F69-AE6A-50CB55C7BB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{096D6906-03E9-4F69-AE6A-50CB55C7BB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{096D6906-03E9-4F69-AE6A-50CB55C7BB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{096D6906-03E9-4F69-AE6A-50CB55C7BB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1DC67AE-F795-4AB8-9548-436F254D2520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1DC67AE-F795-4AB8-9548-436F254D2520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1DC67AE-F795-4AB8-9548-436F254D2520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1DC67AE-F795-4AB8-9548-436F254D2520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B6807A-B093-4FA7-9CE5-EADBA81D7705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B6807A-B093-4FA7-9CE5-EADBA81D7705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B6807A-B093-4FA7-9CE5-EADBA81D7705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B6807A-B093-4FA7-9CE5-EADBA81D7705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

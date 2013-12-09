@@ -1,0 +1,9 @@
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\bin\Debug\HumanWorkerMoney.exe.config
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\obj\Debug\HumanWorkerMoney.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\obj\Debug\HumanWorkerMoney.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\bin\Debug\HumanWorkerMoney.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\obj\Debug\HumanWorkerMoney.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\obj\Debug\HumanWorkerMoney.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\bin\Debug\HumanWorkerMoney.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\bin\Debug\HumanWorkerMoney.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\obj\Debug\02.HumanWorkerMoney.csprojResolveAssemblyReference.cache

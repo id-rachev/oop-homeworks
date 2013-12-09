@@ -1,0 +1,12 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\04. Path Of Points\bin\Debug\_04.Path_Of_Points.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\04. Path Of Points\bin\Debug\_04.Path_Of_Points.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\04. Path Of Points\bin\Debug\_04.Path_Of_Points.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\04. Path Of Points\obj\Debug\04. Path Of Points.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\04. Path Of Points\obj\Debug\_04.Path_Of_Points.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\04. Path Of Points\obj\Debug\_04.Path_Of_Points.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\04. Path Of Points\bin\Debug\_04.Path_Of_Points.exe.config
+D:\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\04. Path Of Points\obj\Debug\_04.Path_Of_Points.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\04. Path Of Points\obj\Debug\_04.Path_Of_Points.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\04. Path Of Points\bin\Debug\_04.Path_Of_Points.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\04. Path Of Points\bin\Debug\_04.Path_Of_Points.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\04. Path Of Points\obj\Debug\04. Path Of Points.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\05. Encapsulate And Validation\bin\Debug\_05.Encapsulate_And_Validation.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\05. Encapsulate And Validation\bin\Debug\_05.Encapsulate_And_Validation.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\05. Encapsulate And Validation\bin\Debug\_05.Encapsulate_And_Validation.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\05. Encapsulate And Validation\obj\Debug\05. Encapsulate And Validation.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\05. Encapsulate And Validation\obj\Debug\_05.Encapsulate_And_Validation.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\05. Encapsulate And Validation\obj\Debug\_05.Encapsulate_And_Validation.pdb

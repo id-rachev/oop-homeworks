@@ -1,0 +1,6 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\03. Enum Battery Type\bin\Debug\_03.Enum_Battery_Type.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\03. Enum Battery Type\bin\Debug\_03.Enum_Battery_Type.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\03. Enum Battery Type\bin\Debug\_03.Enum_Battery_Type.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\03. Enum Battery Type\obj\Debug\03. Enum Battery Type.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\03. Enum Battery Type\obj\Debug\_03.Enum_Battery_Type.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\03. Enum Battery Type\obj\Debug\_03.Enum_Battery_Type.pdb

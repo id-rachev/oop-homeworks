@@ -1,0 +1,6 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\School\bin\Debug\School.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\School\obj\Debug\School.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\School\bin\Debug\School.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\School\bin\Debug\School.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\School\obj\Debug\School.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\School\obj\Debug\School.pdb

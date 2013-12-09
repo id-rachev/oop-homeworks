@@ -1,0 +1,5 @@
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\bin\Debug\HumanWorkerMoney.exe.config
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\bin\Debug\HumanWorkerMoney.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\bin\Debug\HumanWorkerMoney.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\obj\Debug\HumanWorkerMoney.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\02.HumanWorkerMoney\obj\Debug\HumanWorkerMoney.pdb

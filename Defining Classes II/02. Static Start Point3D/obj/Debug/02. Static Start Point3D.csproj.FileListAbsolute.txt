@@ -1,0 +1,6 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\02. Static Start Point3D\bin\Debug\_02.Static_Start_Point3D.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\02. Static Start Point3D\bin\Debug\_02.Static_Start_Point3D.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\02. Static Start Point3D\bin\Debug\_02.Static_Start_Point3D.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\02. Static Start Point3D\obj\Debug\02. Static Start Point3D.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\02. Static Start Point3D\obj\Debug\_02.Static_Start_Point3D.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\02. Static Start Point3D\obj\Debug\_02.Static_Start_Point3D.pdb

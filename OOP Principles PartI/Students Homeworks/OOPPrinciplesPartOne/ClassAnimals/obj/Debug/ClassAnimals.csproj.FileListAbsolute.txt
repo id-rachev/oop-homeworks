@@ -1,0 +1,6 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\OOPPrinciplesPartOne\ClassAnimals\bin\Debug\ClassAnimals.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\OOPPrinciplesPartOne\ClassAnimals\bin\Debug\ClassAnimals.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\OOPPrinciplesPartOne\ClassAnimals\bin\Debug\ClassAnimals.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\OOPPrinciplesPartOne\ClassAnimals\obj\Debug\ClassAnimals.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\OOPPrinciplesPartOne\ClassAnimals\obj\Debug\ClassAnimals.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\OOPPrinciplesPartOne\ClassAnimals\obj\Debug\ClassAnimals.pdb

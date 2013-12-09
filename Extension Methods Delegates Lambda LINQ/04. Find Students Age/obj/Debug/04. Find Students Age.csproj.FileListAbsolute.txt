@@ -1,0 +1,16 @@
+D:\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\bin\Debug\_04.Find_Students_Age.exe.config
+D:\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\obj\Debug\04. Find Students Age.csprojResolveAssemblyReference.cache
+D:\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\bin\Debug\_04.Find_Students_Age.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\bin\Debug\_04.Find_Students_Age.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\bin\Debug\_03.Find_Students.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\bin\Debug\_03.Find_Students.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\obj\Debug\_04.Find_Students_Age.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\obj\Debug\_04.Find_Students_Age.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\bin\Debug\_04.Find_Students_Age.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\obj\Debug\_04.Find_Students_Age.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\obj\Debug\_04.Find_Students_Age.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\bin\Debug\_04.Find_Students_Age.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\bin\Debug\_04.Find_Students_Age.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\bin\Debug\_03.Find_Students.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\bin\Debug\_03.Find_Students.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\04. Find Students Age\obj\Debug\04. Find Students Age.csprojResolveAssemblyReference.cache

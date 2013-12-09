@@ -1,0 +1,6 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\03. Calculate Distance\bin\Debug\_03.Calculate_Distance.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\03. Calculate Distance\obj\Debug\03. Calculate Distance.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\03. Calculate Distance\bin\Debug\_03.Calculate_Distance.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\03. Calculate Distance\bin\Debug\_03.Calculate_Distance.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\03. Calculate Distance\obj\Debug\_03.Calculate_Distance.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes II\03. Calculate Distance\obj\Debug\_03.Calculate_Distance.pdb

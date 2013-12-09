@@ -1,0 +1,9 @@
+D:\Dropbox\000.Trash\00.OOP\OurGame\TeamGame\TeamGame\bin\Debug\TeamGame.exe.config
+D:\Dropbox\000.Trash\00.OOP\OurGame\TeamGame\TeamGame\obj\Debug\TeamGame.csprojResolveAssemblyReference.cache
+D:\Dropbox\000.Trash\00.OOP\OurGame\TeamGame\TeamGame\bin\Debug\TeamGame.exe
+D:\Dropbox\000.Trash\00.OOP\OurGame\TeamGame\TeamGame\bin\Debug\TeamGame.pdb
+D:\Dropbox\000.Trash\00.OOP\OurGame\TeamGame\TeamGame\obj\Debug\TeamGame.exe
+D:\Dropbox\000.Trash\00.OOP\OurGame\TeamGame\TeamGame\obj\Debug\TeamGame.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\PythonKaa\PythonKaa\bin\Debug\TeamGame.exe.config
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\PythonKaa\PythonKaa\obj\Debug\TeamGame.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\TeamWork\PythonKaa\PythonKaa\obj\Debug\TeamGame.pdb

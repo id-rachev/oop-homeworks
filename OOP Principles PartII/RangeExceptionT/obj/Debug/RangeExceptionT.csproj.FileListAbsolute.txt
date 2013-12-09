@@ -1,0 +1,12 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\RangeException\bin\Debug\RangeException.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\RangeException\bin\Debug\RangeException.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\RangeException\bin\Debug\RangeException.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\RangeException\obj\Debug\RangeExceptionT.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\RangeException\obj\Debug\RangeException.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\RangeException\obj\Debug\RangeException.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\RangeExceptionT\bin\Debug\RangeException.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\RangeExceptionT\obj\Debug\RangeException.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\RangeExceptionT\obj\Debug\RangeException.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\RangeExceptionT\bin\Debug\RangeException.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\RangeExceptionT\bin\Debug\RangeException.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartII\RangeExceptionT\obj\Debug\RangeExceptionT.csprojResolveAssemblyReference.cache

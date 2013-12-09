@@ -1,0 +1,14 @@
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 03 - OOP Principles Part I\01.StudentsAndUni\bin\Debug\01.StudentsAndUni.exe.config
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 03 - OOP Principles Part I\01.StudentsAndUni\bin\Debug\01.StudentsAndUni.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 03 - OOP Principles Part I\01.StudentsAndUni\bin\Debug\01.StudentsAndUni.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 03 - OOP Principles Part I\01.StudentsAndUni\obj\Debug\01.StudentsAndUni.csprojResolveAssemblyReference.cache
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 03 - OOP Principles Part I\01.StudentsAndUni\obj\Debug\01.StudentsAndUni.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 03 - OOP Principles Part I\01.StudentsAndUni\obj\Debug\01.StudentsAndUni.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\01.StudentsAndUni\bin\Debug\01.StudentsAndUni.exe.config
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\01.StudentsAndUni\obj\Debug\01.StudentsAndUni.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\01.StudentsAndUni\bin\Debug\01.StudentsAndUni.exe
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\01.StudentsAndUni\bin\Debug\01.StudentsAndUni.pdb
+C:\Users\Kiril\Documents\Visual Studio 2012\Projects\TelerikHomework\III - 04 - OOP Principles Part I\01.StudentsAndUni\obj\Debug\01.StudentsAndUni.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\III - 04 - OOP Principles Part I\01.StudentsAndUni\bin\Debug\01.StudentsAndUni.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\III - 04 - OOP Principles Part I\01.StudentsAndUni\obj\Debug\01.StudentsAndUni.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\III - 04 - OOP Principles Part I\01.StudentsAndUni\obj\Debug\01.StudentsAndUni.pdb

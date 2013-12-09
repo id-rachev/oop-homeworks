@@ -1,0 +1,5 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\OOPPrinciplesPartOne\SchoolTest\bin\Debug\SchoolTest.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\OOPPrinciplesPartOne\SchoolTest\bin\Debug\SchoolTest.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\OOPPrinciplesPartOne\SchoolTest\bin\Debug\SchoolTest.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\OOPPrinciplesPartOne\SchoolTest\obj\Debug\SchoolTest.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\OOP Principles PartI\Students Homeworks\OOPPrinciplesPartOne\SchoolTest\obj\Debug\SchoolTest.pdb

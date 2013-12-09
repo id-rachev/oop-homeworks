@@ -1,0 +1,6 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\06. Static Field IPhone4S\bin\Debug\_06.Static_Field_IPhone4S.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\06. Static Field IPhone4S\obj\Debug\06. Static Field IPhone4S.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\06. Static Field IPhone4S\bin\Debug\_06.Static_Field_IPhone4S.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\06. Static Field IPhone4S\bin\Debug\_06.Static_Field_IPhone4S.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\06. Static Field IPhone4S\obj\Debug\_06.Static_Field_IPhone4S.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Defining Classes I\06. Static Field IPhone4S\obj\Debug\_06.Static_Field_IPhone4S.pdb

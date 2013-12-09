@@ -1,0 +1,6 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Common Type System\CTS01.Student\bin\Debug\CTS01.Student.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Common Type System\CTS01.Student\obj\Debug\CTS01.Student.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Common Type System\CTS01.Student\bin\Debug\CTS01.Student.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Common Type System\CTS01.Student\bin\Debug\CTS01.Student.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Common Type System\CTS01.Student\obj\Debug\CTS01.Student.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Common Type System\CTS01.Student\obj\Debug\CTS01.Student.pdb

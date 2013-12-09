@@ -1,0 +1,9 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\01. Substring Extension\bin\Debug\_01.Substring_Extension.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\01. Substring Extension\bin\Debug\_01.Substring_Extension.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\01. Substring Extension\bin\Debug\_01.Substring_Extension.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\01. Substring Extension\obj\Debug\01. Substring Extension.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\01. Substring Extension\obj\Debug\_01.Substring_Extension.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\01. Substring Extension\obj\Debug\_01.Substring_Extension.pdb
+D:\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\01. Substring Extension\bin\Debug\_01.Substring_Extension.exe.config
+D:\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\01. Substring Extension\obj\Debug\_01.Substring_Extension.exe
+D:\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\01. Substring Extension\obj\Debug\_01.Substring_Extension.pdb

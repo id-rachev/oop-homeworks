@@ -1,0 +1,6 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\02. Set OF Extensions\bin\Debug\_02.Set_OF_Extensions.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\02. Set OF Extensions\bin\Debug\_02.Set_OF_Extensions.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\02. Set OF Extensions\bin\Debug\_02.Set_OF_Extensions.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\02. Set OF Extensions\obj\Debug\02. Set OF Extensions.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\02. Set OF Extensions\obj\Debug\_02.Set_OF_Extensions.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Extension Methods Delegates Lambda LINQ\02. Set OF Extensions\obj\Debug\_02.Set_OF_Extensions.pdb

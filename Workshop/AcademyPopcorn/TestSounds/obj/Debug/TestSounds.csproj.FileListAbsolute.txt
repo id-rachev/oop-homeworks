@@ -1,0 +1,6 @@
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Workshop\AcademyPopcorn\TestSounds\bin\Debug\TestSounds.exe.config
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Workshop\AcademyPopcorn\TestSounds\bin\Debug\TestSounds.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Workshop\AcademyPopcorn\TestSounds\bin\Debug\TestSounds.pdb
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Workshop\AcademyPopcorn\TestSounds\obj\Debug\TestSounds.csprojResolveAssemblyReference.cache
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Workshop\AcademyPopcorn\TestSounds\obj\Debug\TestSounds.exe
+\\ICHO-LAP\Projects\Telerik Academy\OOP\OOP projects\Workshop\AcademyPopcorn\TestSounds\obj\Debug\TestSounds.pdb
